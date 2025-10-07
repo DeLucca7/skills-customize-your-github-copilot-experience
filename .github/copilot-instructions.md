@@ -13,6 +13,7 @@ Este projeto é um site educacional para compartilhar tarefas de casa e exercíc
 
 - Manter estilo consistente em todas as páginas
 - Manter nomes de arquivos e pastas descritivos e organizados
+- Sempre utilizar o padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) ao realizar commits
 
 ## Padrões Educacionais
 
